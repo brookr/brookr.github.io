@@ -1,2 +1,3 @@
-# brookr.github.io
-Code 102
+# Hello, World! 
+
+This is a web page published in Code 102. 
